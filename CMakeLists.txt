@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.0)
 
-project(cgltf LANGUAGES C CXX VERSION 1.7)
+project(cgltf LANGUAGES C CXX VERSION 1.12)
 
 # Introduce variables:
 # * CMAKE_INSTALL_LIBDIR
